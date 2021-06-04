@@ -27,7 +27,7 @@ scenario for spreading a key between some users and tried to reconstruct the fir
 ## Code
 The programming language for this repository is Matlab. It is possible to implement that in other languages as well.<br/>
 ### Different codes are associated with project.<br/>
-Two files are used in this project, two of them are related to the Graphical User Interface and one of them is the test one in Matlab. 
+Three files are used in this project, two of them are related to the Graphical User Interface and one of them is the test one in Matlab. 
 [Blakley.m](https://github.com/AlirezaShamsoshoara/Blakleys-Secret-Sharing-Scheme/blob/main/Blakley.m) is the main file for the Secret Sharing Scheme. Later, this file is used in the GUI [Blakley_GUI.m](https://github.com/AlirezaShamsoshoara/Blakleys-Secret-Sharing-Scheme/blob/main/Blakley_GUI.m)
 
 
