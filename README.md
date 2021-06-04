@@ -1,0 +1,2 @@
+# Blakleys-Secret-Sharing-Scheme
+OVERVIEW OF BLAKLEYS SECRET SHARING SCHEME
